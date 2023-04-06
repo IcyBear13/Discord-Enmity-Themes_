@@ -1,12 +1,18 @@
 {
   "name": "MyMemesEndedHere CUSTOM",
-  "description": "Memes, DNA of the soul",
+  "description": "Memes, DNA of the soul. With added backround",
   "version": "6.66",
   "authors": [
     {
-      "name": "Abby, Cryptkeeper",
+      "name": "Abby",
       "id": "499287211381096458"
-    }
+    },
+
+	{
+		"name": "Cryptkeeper",
+        "id": "465372985415565322"
+	}
+
   ],
   "theme_color_map": {
     "KEYBOARD": [
@@ -147,8 +153,8 @@
     "CHAT_GREY": "#070707"
   },
   "background": {
-    "blur": 0,
+    "blur": 0.1,
     "url": "https://media.discordapp.net/attachments/988978827562717244/1093499242070409336/IMG_2562.jpg",
-    "alpha": 1
+    "alpha": 1.0
   }
 }
